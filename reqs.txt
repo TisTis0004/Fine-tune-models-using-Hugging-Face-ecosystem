@@ -1,0 +1,4 @@
+transformers 4.35.2
+datasets 3.5.0
+Pytorch 2.6.0+cu126
+beautifulsoup4 4.13.3
